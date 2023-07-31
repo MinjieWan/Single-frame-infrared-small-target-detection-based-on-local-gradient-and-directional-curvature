@@ -12,7 +12,7 @@ clear all;
 clc;
 close all;
 
-filename = 'sky.tif';
+filename = 'test.tif';
 
 %% parameter setting
 opt. k = 0.5; % threshold of (Nmin / Nmax)
